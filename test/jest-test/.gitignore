@@ -1,0 +1,4 @@
+node_modules
+**/__screenshots__/*.png
+**/__screenshots__/*.html
+to-match-screenshot-report

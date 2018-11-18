@@ -1,0 +1,19 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "@types/tmp": "0.0.33",
+    "jest": "^23.6.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "ts-jest": "^23.10.4",
+    "vqa": "../../dist/vqa-0.0.1.tgz"
+  }
+}
